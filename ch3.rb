@@ -21,4 +21,4 @@ doc.elements.each("collection/movie/format"){
            puts e.get_text.value
            x = e.get_text.value) : ()
     }
-# End of my code
+# End of my code 
