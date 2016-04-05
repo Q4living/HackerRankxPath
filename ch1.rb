@@ -19,3 +19,5 @@ doc.elements.each("collection/movie"){
    |e| puts e.attributes["title"] 
 }
 # End of my Code
+
+
