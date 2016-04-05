@@ -19,3 +19,4 @@ doc.elements.each("collection/movie/popularity"){
     |e| puts e.get_text.value
 }
 # End of my code
+ 
